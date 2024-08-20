@@ -1,0 +1,12 @@
+{
+    "name": "John Doe",
+    "dob": "01/01/2000",
+    "address": "123 Main St",
+    "email": "john.doe@example.com",
+    "status": "success",
+    "message": "User details submitted successfully!"
+  
+  }
+
+  
+  

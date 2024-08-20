@@ -1,0 +1,32 @@
+[
+    {
+      "image": "assets/images/appbar_profile_pic.png",
+      "text": "Prasanth",
+      "amount": "+ RC 55,000",
+      "date": "01/12/25"
+    },
+    {
+      "image": "assets/images/appbar_profile_pic.png",
+      "text": "Sai",
+      "amount": "+ RC 55,000",
+      "date": "02/12/25"
+    },
+    {
+      "image": "assets/images/appbar_profile_pic.png",
+      "text": "Bhaskar",
+      "amount": "+ RC 55,000",
+      "date": "04/12/25"
+    },
+    {
+        "image": "assets/images/appbar_profile_pic.png",
+        "text": "Bhaskar",
+        "amount": "+ RC 55,000",
+        "date": "04/12/25"
+      },
+      {
+        "image": "assets/images/appbar_profile_pic.png",
+        "text": "Bhaskar",
+        "amount": "+ RC 55,000",
+        "date": "04/12/25"
+      }  
+  ]

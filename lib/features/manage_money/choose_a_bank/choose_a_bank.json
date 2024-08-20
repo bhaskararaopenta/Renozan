@@ -1,0 +1,104 @@
+{
+    "success": true,
+    "message": "Get Bank list",
+    "data": {
+      "list": [
+        {
+          "id": 1,
+          "name": "National Commercial Bank Jamaica Limited",
+          "branch": "Head Office",
+          "address": "32 Trafalgar Road",
+          "city": "Kingston",
+          "country": "Jamaica",
+          "postalCode": "10",
+          "ifscCode": "",
+          "createdAt": "2024-07-11T13:05:09.729Z",
+          "updatedAt": "2024-07-11T13:05:09.729Z"
+        },
+        {
+          "id": 2,
+          "name": "Scotiabank Jamaica",
+          "branch": "Head Office",
+          "address": "Scotiabank Centre, Corner of Duke and Port Royal Streets",
+          "city": "Kingston",
+          "country": "Jamaica",
+          "postalCode": "5",
+          "ifscCode": "",
+          "createdAt": "2024-07-11T13:05:09.729Z",
+          "updatedAt": "2024-07-11T13:05:09.729Z"
+        },
+        {
+          "id": 3,
+          "name": "First Caribbean International Bank",
+          "branch": "Head Office",
+          "address": "23-27 Knutsford Boulevard",
+          "city": "Kingston",
+          "country": "Jamaica",
+          "postalCode": "5",
+          "ifscCode": "",
+          "createdAt": "2024-07-11T13:05:09.729Z",
+          "updatedAt": "2024-07-11T13:05:09.729Z"
+        },
+        {
+          "id": 4,
+          "name": "Sagicor Bank Jamaica Limited",
+          "branch": "Head Office",
+          "address": "17 Dominica Drive",
+          "city": "Kingston",
+          "country": "Jamaica",
+          "postalCode": "5",
+          "ifscCode": "",
+          "createdAt": "2024-07-11T13:05:09.729Z",
+          "updatedAt": "2024-07-11T13:05:09.729Z"
+        },
+        {
+          "id": 5,
+          "name": "Jamaica National Bank",
+          "branch": "Head Office",
+          "address": "2-4 Constant Spring Road",
+          "city": "Kingston",
+          "country": "Jamaica",
+          "postalCode": "10",
+          "ifscCode": "",
+          "createdAt": "2024-07-11T13:05:09.729Z",
+          "updatedAt": "2024-07-11T13:05:09.729Z"
+        },
+        {
+          "id": 6,
+          "name": "Victoria Mutual Building Society",
+          "branch": "Head Office",
+          "address": "8-10 Duke Street",
+          "city": "Kingston",
+          "country": "Jamaica",
+          "postalCode": "5",
+          "ifscCode": "",
+          "createdAt": "2024-07-11T13:05:09.729Z",
+          "updatedAt": "2024-07-11T13:05:09.729Z"
+        },
+        {
+          "id": 7,
+          "name": "First Global Bank Limited",
+          "branch": "Head Office",
+          "address": "2-4 Knutsford Boulevard",
+          "city": "Kingston",
+          "country": "Jamaica",
+          "postalCode": "5",
+          "ifscCode": "",
+          "createdAt": "2024-07-11T13:05:09.729Z",
+          "updatedAt": "2024-07-11T13:05:09.729Z"
+        },
+        {
+          "id": 8,
+          "name": "Citibank N.A.",
+          "branch": "Head Office",
+          "address": "52-60 Knutsford Boulevard",
+          "city": "Kingston",
+          "country": "Jamaica",
+          "postalCode": "5",
+          "ifscCode": "",
+          "createdAt": "2024-07-11T13:05:09.729Z",
+          "updatedAt": "2024-07-11T13:05:09.729Z"
+        }
+      ]
+    }
+  }
